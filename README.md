@@ -4,3 +4,7 @@
 
 CUSTOMER CHURN ANALYSIS:
 
+Customer Retention use cases,understand the customers behaviour and see the insights.Churn Prediction means detecting which customers are likely to leave a service or cancel a subscription
+to a service.
+
+
