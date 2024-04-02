@@ -5,7 +5,7 @@
 https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png
 
 <img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png
-" width="500" height="100" />
+" width="1000" height="300" />
 
 ## CUSTOMER CHURN ANALYSIS:
 
