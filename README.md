@@ -4,8 +4,9 @@
 
 https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png
 
+<p align='center'
 <img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png
-" width="1000" height="300" />
+" width="1000" height="300" /></p>
 
 ## CUSTOMER CHURN ANALYSIS:
 
