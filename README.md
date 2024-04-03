@@ -19,3 +19,4 @@ This plan may be available with less cost in different telco's may be Rs.200 or 
 
 To detect early signs of potential churn, one must first develop a view of the customers and their interactions across numerous channels.As a result, by addressing churn, these businesses may not only preserve their market position, but also one can take necessary ideas. More customers they have in their network, the lower the cost of initiation and the larger the profit. As a result, the company's key focus for success is reducing client attrition and implementing effective retention strategy.
 
+<a href="url"><img src="" align="center" height="400" width="700" ></a>
