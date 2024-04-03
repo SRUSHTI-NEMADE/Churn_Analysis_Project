@@ -22,4 +22,4 @@ To detect early signs of potential churn, one must first develop a view of the c
 <a href="url"><img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/Telco3.jpg" align="center" height="500" width="800" ></a>
 
 
-In this project,I have completed End to End Exploratory Data Analysis and identified the characteristics of the customers who are likely to churn and have created the model as well.
+In this project,The dataset is taken from Kaggle ,I have completed End to End Exploratory Data Analysis and identified the characteristics of the customers who are likely to churn and have created the model as well.
