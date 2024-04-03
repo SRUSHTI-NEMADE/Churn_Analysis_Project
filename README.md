@@ -6,7 +6,7 @@
 <img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png
 " width="1000" height="300" />
 
-<a href="url"><img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png" align="center" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png" align="center" height="100" width="480" ></a>
 
 ## CUSTOMER CHURN ANALYSIS:
 
