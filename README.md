@@ -1,12 +1,13 @@
 # Churn_Analysis_Project
 
-![cc](https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/assets/165806295/60d94e29-7069-4729-a329-827c1be4221c)
 
-<p align="center">
 
 <a href="url"><img src="https://github.com/SRUSHTI-NEMADE/Churn_Analysis_Project/blob/main/cc.png" align="center" height="400" width="700" ></a>
 
-</p>
+
+
+
+
 
 ## CUSTOMER CHURN ANALYSIS:
 
